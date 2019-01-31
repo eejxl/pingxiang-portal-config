@@ -1,5 +1,5 @@
 <?php
-namespace portalConfig;
+namespace PortalConfig\common;
 
 use Marmot\Core;
 
